@@ -1,6 +1,6 @@
 {
   "posts": [
-    "id": 1,
+    "id": "1",
     "data": [
       {
         "primaryKey": "1",
@@ -26,7 +26,7 @@
         "price": "288",
         "action": "aaa",
         "statusSummary": "y",
-        "batchPassed": '"y"
+        "batchPassed": "y"
       },
       {
         "primaryKey": "3",
@@ -39,7 +39,7 @@
         "price": "288",
         "action": "aaa",
         "statusSummary": "y",
-        "batchPassed": '"y"
+        "batchPassed": "y"
       }
     ]
   ]
