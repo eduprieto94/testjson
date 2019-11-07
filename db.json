@@ -1,46 +1,48 @@
 {
   "posts": [
-    "id": 1,
-    "data": [
-      {
-        "primaryKey": "1",
-        "tradeDate": "15/11/2019",
-        "valueDate": "15/11/2019",
-        "type": "-",
-        "counterparty": "-",
-        "lei": "-",
-        "sellBuy": "S",
-        "price": "288",
-        "action": "aaa",
-        "statusSummary": "y",
-        "batchPassed": "y"
-      },
-      {
-        "primaryKey": "2",
-        "tradeDate": "15/11/2019",
-        "valueDate": "15/11/2019",
-        "type": "-",
-        "counterparty": "-",
-        "lei": "-",
-        "sellBuy": "S",
-        "price": "288",
-        "action": "aaa",
-        "statusSummary": "y",
-        "batchPassed": "y"
-      },
-      {
-        "primaryKey": "3",
-        "tradeDate": "15/11/2019",
-        "valueDate": "15/11/2019",
-        "type": "-",
-        "counterparty": "-",
-        "lei": "-",
-        "sellBuy": "S",
-        "price": "288",
-        "action": "aaa",
-        "statusSummary": "y",
-        "batchPassed": "y"
-      }
-    ]
+    {
+      "id": 1,
+      "data": [
+        {
+          "primaryKey": "1",
+          "tradeDate": "15/11/2019",
+          "valueDate": "15/11/2019",
+          "type": "-",
+          "counterparty": "-",
+          "lei": "-",
+          "sellBuy": "S",
+          "price": "288",
+          "action": "aaa",
+          "statusSummary": "y",
+          "batchPassed": "y"
+        },
+        {
+          "primaryKey": "2",
+          "tradeDate": "15/11/2019",
+          "valueDate": "15/11/2019",
+          "type": "-",
+          "counterparty": "-",
+          "lei": "-",
+          "sellBuy": "S",
+          "price": "288",
+          "action": "aaa",
+          "statusSummary": "y",
+          "batchPassed": "y"
+        },
+        {
+          "primaryKey": "3",
+          "tradeDate": "15/11/2019",
+          "valueDate": "15/11/2019",
+          "type": "-",
+          "counterparty": "-",
+          "lei": "-",
+          "sellBuy": "S",
+          "price": "288",
+          "action": "aaa",
+          "statusSummary": "y",
+          "batchPassed": "y"
+        }
+      ]
+    }
   ]
 }
