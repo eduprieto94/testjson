@@ -14,7 +14,7 @@
           "price": "234",
           "action": "aaa",
           "statusSummary": "y",
-          "batchPassed": "y"
+          "batchPassed": "n"
         },
         {
           "primaryKey": "2",
@@ -26,7 +26,7 @@
           "sellBuy": "S",
           "price": "34",
           "action": "aaa",
-          "statusSummary": "y",
+          "statusSummary": "n",
           "batchPassed": "y"
         },
         {
@@ -65,7 +65,7 @@
           "sellBuy": "S",
           "price": "34534",
           "action": "aaa",
-          "statusSummary": "y",
+          "statusSummary": "n",
           "batchPassed": "y"
         },
         {
@@ -78,8 +78,8 @@
           "sellBuy": "S",
           "price": "543",
           "action": "aaa",
-          "statusSummary": "y",
-          "batchPassed": "y"
+          "statusSummary": "n",
+          "batchPassed": "n"
         },
         {
           "primaryKey": "7",
@@ -104,7 +104,7 @@
           "sellBuy": "S",
           "price": "3453",
           "action": "aaa",
-          "statusSummary": "y",
+          "statusSummary": "n",
           "batchPassed": "y"
         },
         {
@@ -118,7 +118,7 @@
           "price": "34",
           "action": "aaa",
           "statusSummary": "y",
-          "batchPassed": "y"
+          "batchPassed": "n"
         },
         {
           "primaryKey": "10",
@@ -130,7 +130,7 @@
           "sellBuy": "S",
           "price": "23",
           "action": "aaa",
-          "statusSummary": "y",
+          "statusSummary": "n",
           "batchPassed": "y"
         },
         {
@@ -156,8 +156,8 @@
           "sellBuy": "S",
           "price": "2",
           "action": "aaa",
-          "statusSummary": "y",
-          "batchPassed": "y"
+          "statusSummary": "n",
+          "batchPassed": "n"
         },
         {
           "primaryKey": "13",
@@ -169,7 +169,7 @@
           "sellBuy": "S",
           "price": "88",
           "action": "aaa",
-          "statusSummary": "y",
+          "statusSummary": "n",
           "batchPassed": "y"
         },
         {
@@ -182,8 +182,8 @@
           "sellBuy": "S",
           "price": "565",
           "action": "aaa",
-          "statusSummary": "y",
-          "batchPassed": "y"
+          "statusSummary": "n",
+          "batchPassed": "n"
         },
         {
           "primaryKey": "15",
@@ -209,7 +209,7 @@
           "price": "31",
           "action": "aaa",
           "statusSummary": "y",
-          "batchPassed": "y"
+          "batchPassed": "n"
         },
         {
           "primaryKey": "17",
@@ -222,7 +222,7 @@
           "price": "4",
           "action": "aaa",
           "statusSummary": "y",
-          "batchPassed": "y"
+          "batchPassed": "n"
         },
         {
           "primaryKey": "18",
@@ -247,8 +247,8 @@
           "sellBuy": "S",
           "price": "232",
           "action": "aaa",
-          "statusSummary": "y",
-          "batchPassed": "y"
+          "statusSummary": "n",
+          "batchPassed": "n"
         },
         {
           "primaryKey": "20",
@@ -260,8 +260,8 @@
           "sellBuy": "S",
           "price": "'904",
           "action": "aaa",
-          "statusSummary": "y",
-          "batchPassed": "y"
+          "statusSummary": "n",
+          "batchPassed": "n"
         },
         {
           "primaryKey": "21",
@@ -273,7 +273,7 @@
           "sellBuy": "S",
           "price": "1155",
           "action": "aaa",
-          "statusSummary": "y",
+          "statusSummary": "n",
           "batchPassed": "y"
         }
       ]
